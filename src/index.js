@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Fangirling } from "./Slides";
+import { Fangirling, Button } from "./Slides";
 
-ReactDOM.render(<Fangirling />, document.getElementById("root"));
+ReactDOM.render(<Button />, document.getElementById("root"));

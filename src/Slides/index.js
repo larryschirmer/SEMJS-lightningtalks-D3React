@@ -1,2 +1,3 @@
 import Fangirling from "./Fangirling/Fangirling";
-export { Fangirling };
+import Button from "./Button/Button";
+export { Fangirling, Button };
